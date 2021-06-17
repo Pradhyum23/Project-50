@@ -1,0 +1,36 @@
+h1 {
+    color: blue;    
+}
+
+.header{
+      background-color: rgb(240, 27, 27);
+      display:flex;
+      justify-content: space-between;
+}
+
+.menu{
+      background-color: rgb(44, 44, 175);    
+}
+
+.bodying{
+    display: flex;
+    flex: content;
+    justify-content: flex-start;
+}
+
+.grid{
+   display:flex;
+   flex-wrap: wrap;
+}
+.grid image{
+    border: 2px solid black
+    border-radius: 20px;
+}
+
+.origami {
+
+border-radius: 20px; 
+background-color: aqua ;
+width:310px;
+font-family: fantasy;
+}
